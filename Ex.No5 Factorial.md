@@ -1,6 +1,6 @@
 # Ex.No: 5   Logic Programming – Factorial of number   
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212221060230
 ### AIM: 
 To  write  a logic program for finding the factorial of given number using SWI-PROLOG. 
 ### Algorithm:
@@ -12,10 +12,19 @@ To  write  a logic program for finding the factorial of given number using SWI-P
 6. STEP 4: Stop the program.
 
 ### Program:
-
+```
+factorial(0,1).
+factorial(A,B) :-  
+           A > 0, 
+           C is A-1,
+           factorial(C,D),
+           B is A*D.
+```
 
 
 ### Output:
+![Screenshot 2024-03-23 135124](https://github.com/Immanuel0208/AI_Lab_2023-24/assets/123659657/c3e44f8d-7e74-4d6a-832f-ea2076814a76)
+
 
 
 
