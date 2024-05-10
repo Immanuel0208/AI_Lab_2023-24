@@ -1,8 +1,8 @@
-# Ex.No: 1  Implementation of Breadth First Search 
-### DATE:                                                                            
-### REGISTER NUMBER : 212221060230
+# Ex.No: 1  Implementation of Breadth-First Search 
+### DATE: 10.02.2024                                                                           
+### REGISTER NUMBER: 212221060230
 ### AIM: 
-To write a python program to implement Breadth first Search. 
+To write a Python program to implement Breadth First Search. 
 ### Algorithm:
 1. Start the program
 2. Create the graph by using adjacency list representation
