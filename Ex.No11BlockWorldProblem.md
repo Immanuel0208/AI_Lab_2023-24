@@ -3,6 +3,7 @@
 ### REGISTER NUMBER : 212221060230
 ### AIM: 
 To find the sequence of plan for Block word problem using PDDL  
+
 ###  Algorithm:
 Step 1 :  Start the program <br>
 Step 2 : Create a domain for Block world Problem <br>
